@@ -2,7 +2,7 @@
 
 A modern, responsive password generator built using **React**, **Vite**, and **Tailwind CSS**. Easily generate secure, random passwords with customizable options like length, uppercase/lowercase, numbers, and symbols.
 
-![Screenshot](./public/screenshot.png) <!-- Optional: Add a screenshot -->
+
 
 ## 🚀 Live Demo
 
